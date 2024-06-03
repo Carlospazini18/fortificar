@@ -132,7 +132,7 @@ body {
 
 #menu {
     padding-top: 10px;
-    position: absolute;
+    position: fixed;
     background-color: white;
     font-size: 20px;
     display: flex;
